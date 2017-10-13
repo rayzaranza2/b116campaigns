@@ -1,0 +1,262 @@
+[
+  {
+    "Campanha": "Gmail - Empresário Local",
+    "Segmentação da Campanha": "Gmail",
+    "Público": "Empresário Local",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 1367.39,
+    "Leads": 10,
+    "CPL": 136.74
+  },
+  {
+    "Campanha": "Contextual Audiência - Investidor",
+    "Segmentação da Campanha": "Contextual Audiência",
+    "Público": "Investidor",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 4502.77,
+    "Leads": 69,
+    "CPL": 65.26
+  },
+  {
+    "Campanha": "Contextual Audiência - Empresário Fora",
+    "Segmentação da Campanha": "Contextual Audiência",
+    "Público": "Empresário Fora",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 751.48,
+    "Leads": 4,
+    "CPL": 187.87
+  },
+  {
+    "Campanha": "Remarketing - Empresário Local",
+    "Segmentação da Campanha": "Remarketing",
+    "Público": "Empresário Local",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 156.49,
+    "Leads": 6,
+    "CPL": 26.08
+  },
+  {
+    "Campanha": "Afinidades Personalizadas - Empresário Fora",
+    "Segmentação da Campanha": "Afinidades Personalizadas",
+    "Público": "Empresário Fora",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 587.48,
+    "Leads": 7,
+    "CPL": 83.93
+  },
+  {
+    "Campanha": "Remarketing - Empresário Fora",
+    "Segmentação da Campanha": "Remarketing",
+    "Público": "Empresário Fora",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 235.46,
+    "Leads": 4,
+    "CPL": 58.87
+  },
+  {
+    "Campanha": "Box 116 - RD  - Teste",
+    "Segmentação da Campanha": "Box 116 - RD",
+    "Público": "Teste",
+    "Status": "Pausado",
+    "Tipo de campanha": "Pesquisa",
+    "Custo": 216.02,
+    "Leads": 0,
+    "CPL": null
+  },
+  {
+    "Campanha": "Gmail - Investidor",
+    "Segmentação da Campanha": "Gmail",
+    "Público": "Investidor",
+    "Status": "Pausado",
+    "Tipo de campanha": "Display",
+    "Custo": 872.01,
+    "Leads": 17,
+    "CPL": 51.29
+  },
+  {
+    "Campanha": "Pesquisa - Empresário Fora",
+    "Segmentação da Campanha": "Pesquisa",
+    "Público": "Empresário Fora",
+    "Status": "Ativo",
+    "Tipo de campanha": "Pesquisa",
+    "Custo": 870.54,
+    "Leads": 4,
+    "CPL": 217.64
+  },
+  {
+    "Campanha": "Afinidades Personalizadas - Investidor",
+    "Segmentação da Campanha": "Afinidades Personalizadas",
+    "Público": "Investidor",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 1035.6,
+    "Leads": 23,
+    "CPL": 45.03
+  },
+  {
+    "Campanha": "Contextual Audiência - Empresário Local",
+    "Segmentação da Campanha": "Contextual Audiência",
+    "Público": "Empresário Local",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 4010.99,
+    "Leads": 10,
+    "CPL": 401.1
+  },
+  {
+    "Campanha": "Pesquisa - Empresário Local",
+    "Segmentação da Campanha": "Pesquisa",
+    "Público": "Empresário Local",
+    "Status": "Pausado",
+    "Tipo de campanha": "Pesquisa",
+    "Custo": 0,
+    "Leads": 0,
+    "CPL": "NaN"
+  },
+  {
+    "Campanha": "Categoria Lotes - Teste",
+    "Segmentação da Campanha": "Categoria Lotes",
+    "Público": "Teste",
+    "Status": "Pausado",
+    "Tipo de campanha": "Pesquisa",
+    "Custo": 149.1,
+    "Leads": 25,
+    "CPL": 5.96
+  },
+  {
+    "Campanha": "Afinidades Personalizadas - Empresário Local",
+    "Segmentação da Campanha": "Afinidades Personalizadas",
+    "Público": "Empresário Local",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 1253.46,
+    "Leads": 9,
+    "CPL": 139.27
+  },
+  {
+    "Campanha": "Pesquisa - Empresário Local",
+    "Segmentação da Campanha": "Pesquisa",
+    "Público": "Empresário Local",
+    "Status": "Ativo",
+    "Tipo de campanha": "Pesquisa",
+    "Custo": 1658.36,
+    "Leads": 25,
+    "CPL": 66.33
+  },
+  {
+    "Campanha": "Contextual Audiência - Investidor",
+    "Segmentação da Campanha": "Contextual Audiência",
+    "Público": "Investidor",
+    "Status": "Pausado",
+    "Tipo de campanha": "Display",
+    "Custo": 0,
+    "Leads": 0,
+    "CPL": "NaN"
+  },
+  {
+    "Campanha": "Canais - Investidor",
+    "Segmentação da Campanha": "Canais",
+    "Público": "Investidor",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 504.09,
+    "Leads": 20,
+    "CPL": 25.2
+  },
+  {
+    "Campanha": "Investidor Pesquisa - Investidor",
+    "Segmentação da Campanha": "Investidor Pesquisa",
+    "Público": "Investidor",
+    "Status": "Ativo",
+    "Tipo de campanha": "Pesquisa",
+    "Custo": 1267.61,
+    "Leads": 27,
+    "CPL": 46.95
+  },
+  {
+    "Campanha": "Contextual Conteúdo - Investidor",
+    "Segmentação da Campanha": "Contextual Conteúdo",
+    "Público": "Investidor",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 4459.41,
+    "Leads": 150,
+    "CPL": 29.73
+  },
+  {
+    "Campanha": "Contextual Conteúdo - Empresário Local",
+    "Segmentação da Campanha": "Contextual Conteúdo",
+    "Público": "Empresário Local",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 2543.87,
+    "Leads": 38,
+    "CPL": 66.94
+  },
+  {
+    "Campanha": "Canais - Empresário Local",
+    "Segmentação da Campanha": "Canais",
+    "Público": "Empresário Local",
+    "Status": "Pausado",
+    "Tipo de campanha": "Display",
+    "Custo": 257.87,
+    "Leads": 1,
+    "CPL": 257.87
+  },
+  {
+    "Campanha": "Gmail - Empresário Fora",
+    "Segmentação da Campanha": "Gmail",
+    "Público": "Empresário Fora",
+    "Status": "Pausado",
+    "Tipo de campanha": "Display",
+    "Custo": 101.61,
+    "Leads": 1,
+    "CPL": 101.61
+  },
+  {
+    "Campanha": "Display - Empresário Local",
+    "Segmentação da Campanha": "Display",
+    "Público": "Empresário Local",
+    "Status": "Pausado",
+    "Tipo de campanha": "Display",
+    "Custo": 0,
+    "Leads": 0,
+    "CPL": "NaN"
+  },
+  {
+    "Campanha": "Remarketing - Investidor",
+    "Segmentação da Campanha": "Remarketing",
+    "Público": "Investidor",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 238.63,
+    "Leads": 12,
+    "CPL": 19.89
+  },
+  {
+    "Campanha": "Canais - Empresário Fora",
+    "Segmentação da Campanha": "Canais",
+    "Público": "Empresário Fora",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 251.68,
+    "Leads": 3,
+    "CPL": 83.89
+  },
+  {
+    "Campanha": "Contextual Audiência - Empresário Fora",
+    "Segmentação da Campanha": "Contextual Audiência",
+    "Público": "Empresário Fora",
+    "Status": "Ativo",
+    "Tipo de campanha": "Display",
+    "Custo": 803.91,
+    "Leads": 4,
+    "CPL": 200.98
+  }
+]
